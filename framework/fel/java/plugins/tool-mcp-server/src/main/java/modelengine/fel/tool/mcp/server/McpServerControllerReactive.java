@@ -52,8 +52,8 @@ import java.util.concurrent.ConcurrentHashMap;
  *   <li>更好的线程池利用</li>
  * </ul>
  *
- * @author 改造版本
- * @since 2024-12-19
+ * @author Fred
+ * @since 2025-08-15
  */
 @Component
 public class McpServerControllerReactive implements McpServer.ToolsChangedObserver {
