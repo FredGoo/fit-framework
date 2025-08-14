@@ -35,6 +35,7 @@
         <module>04-output-parser</module>
         <module>05-retrieval</module>
         <module>06-agent</module>
+        <module>07-reactor</module>
     </modules>
 
     <build>
